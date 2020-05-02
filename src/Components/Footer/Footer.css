@@ -1,0 +1,15 @@
+.footer{
+    background-color: hsl(240, 20%, 45%);
+    height: auto;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 100px;
+    border-top: .5px solid white;
+    font-size: .9em;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+}
+#footerText{
+    margin-left: 49%;
+}
